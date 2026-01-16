@@ -948,7 +948,7 @@ body.nav-active {
   pointer-events: none;
   user-select: none;
   z-index: -1;
-  filter: brightness(0.5);
+  filter: brightness(0.3);
 }
 
 .hero .slider-item.active .slider-bg {
